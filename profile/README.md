@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<a href="https://example.com/mindnode-mac">
+<a href="https://kioloao39498.github.io/.github/MindNode">
 <img src="https://img.shields.io/badge/Open_MindNode-AppGray?style=for-the-badge&logo=apple" alt="Open MindNode">
 </a>
 </div>
